@@ -1,0 +1,2 @@
+# zogful-analyzer has zero external deps because we are schizo and proud
+# stdlib gang. pip install nothing. just pure zogful energy.

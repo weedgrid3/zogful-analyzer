@@ -1,0 +1,11 @@
+# zogful analyzer artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.env
+*.log
+lolcow_registry.json
+cabal_blacklist.txt
